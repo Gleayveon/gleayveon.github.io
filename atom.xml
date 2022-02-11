@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Gleayveonの杂物箱</title>
+  
+  <subtitle>よろよろしく願いします</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-11T17:23:21.907Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Gleayveon</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>タマモコロス</title>
+    <link href="http://example.com/2022/02/12/%E3%82%BF%E3%83%9E%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9/"/>
+    <id>http://example.com/2022/02/12/%E3%82%BF%E3%83%9E%E3%83%A2%E3%82%B3%E3%83%AD%E3%82%B9/</id>
+    <published>2022-02-11T17:23:21.000Z</published>
+    <updated>2022-02-11T17:23:21.907Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/02/12/hello-world/"/>
+    <id>http://example.com/2022/02/12/hello-world/</id>
+    <published>2022-02-11T17:09:27.408Z</published>
+    <updated>2022-02-11T17:09:27.408Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ライスシャワー</title>
+    <link href="http://example.com/2022/02/11/%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC/"/>
+    <id>http://example.com/2022/02/11/%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC/</id>
+    <published>2022-02-11T07:06:03.000Z</published>
+    <updated>2022-02-11T16:25:01.030Z</updated>
+    
+    <content type="html"><![CDATA[<p>功能测试</p><h2 id="文本测试"><a href="#文本测试" class="headerlink" title="文本测试"></a>文本测试</h2><h3 id="中文"><a href="#中文" class="headerlink" title="中文"></a>中文</h3><p>见到米浴的第一眼我忘不掉她了<br>米浴这样的女孩子真的存在吗？明明已经是大人了，长得就像小萝莉一样，却浑身散发出强大的气场，最喜欢这样的米浴了。<br>米浴真的好可爱啊。牵着她的小手走在街上被认识的人误以为是兄妹后气鼓鼓的样子很可爱，每天晚上睡前给自己朗读绘本故事很可爱，战胜挫折最终得到喝彩与欢呼时的样子也好可爱。<br>所以我离不开米浴了。如果早晨不是有米浴的亲吻的话，说不定我永远都不愿意睁眼了。如果晚上没有米浴的晚安的话，这一天我都不希望过完了。<br>当我晚上睡觉的时候，当我抱着她入睡的时候，我就会觉得自己是世界上最幸福的傻子。米浴小小的软软的抱着很舒服，感受着米浴的体温闻着米浴的体香入睡简直就是天底下最幸福最美好的事，连梦境都是香甜的。<br>无时无刻不想着米浴，只要她离开我的视线半秒都感觉像是失去了整个世界。米浴不在，我和其他马娘约会刷好感时会想她，找骏川小姐抽卡时会想她，打竞技场时会想她。没有米浴在身边，训练工作也索然无味，抽卡出货了也无精打采，出三星因子了也意兴阑珊。有米浴在身边，看着她嫉妒的样子刷三星因子也易如反掌，骂骏川小姐一直给九银一金也酣畅淋漓，竞技场连跪也无所畏惧。<br>米浴这样的女孩，存在真的是被允许的吗？我的米浴，我的米浴，我的米浴，我的米浴，我的米浴，我的米浴，我的米浴，我的米浴，你们不许用她，她是我一个人的😭！</p><h3 id="日本語"><a href="#日本語" class="headerlink" title="日本語"></a>日本語</h3><p>本製品は十八歳未満の方は　プ…プレすることが出来ん<br>この作品はフィクションじゃ<br>登場する人物名、団体名、地名、設定なのわ全て架空のもやり、実際するものとわ一切関係ない<br>本製品の一部または全部を無断で複製、改変、録音、賃貸、擬似レンタル、配布、配信などすることを禁ずるまたプレイ動画などの配信も同様に禁止じゃぞ</p><h3 id="Italiano"><a href="#Italiano" class="headerlink" title="Italiano"></a>Italiano</h3><p>Una volta che avrai<br>spiccato il volo,deciderai<br>sguardo verso il ciel saprai:<br>Lì a casa il cuore sentirai<br>Una volta che avrai<br>spiccato il volo,deciderai<br>sguardo verso il ciel saprai:<br>Lì a casa il cuore sentirai<br>Prenderà il primo volo<br>verso il sole il grande uccello<br>sorvolando il grande Monte Ceceri<br>Riempendo l’universo<br>di stupore e gloria!<br>Una volta che avrai,<br>Spiccato il Volo, Deciderai<br>sguardo verso il ciel saprai:<br>Lì a casa il cuore sentirai<br>L’uomo verrà portato,<br>dalla sua creazione<br>come gli uccelli,verso il cielo…<br>Libera, il vento,<br>Riempendo l’universo di stupore e gloria!<br>Una volta che avrai<br>spiccato il volo,deciderai,<br>sguardo verso il ciel saprai:<br>Lì a casa il cuore sentirà<br>Gloria! Gloria!</p><h2 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h2><p><img src="/2022/02/11/%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC//test.png"></p><h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2><hr><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span></span><br><span class="line">&#123;</span><br><span class="line">  ptintf(<span class="string">&quot;hello world\n&quot;</span>);</span><br><span class="line">  <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h2><p>$$<br>e^{\pi i}+1&#x3D;0<br>$$</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;功能测试&lt;/p&gt;
+&lt;h2 id=&quot;文本测试&quot;&gt;&lt;a href=&quot;#文本测试&quot; class=&quot;headerlink&quot; title=&quot;文本测试&quot;&gt;&lt;/a&gt;文本测试&lt;/h2&gt;&lt;h3 id=&quot;中文&quot;&gt;&lt;a href=&quot;#中文&quot; class=&quot;headerlink&quot; title=&quot;中</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
