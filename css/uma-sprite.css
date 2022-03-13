@@ -1,0 +1,15 @@
+.uma-sprite {
+    background-image: url(/img/UmaSprite.png);
+    display: inline-block;
+}
+ 
+.uma-sprite.uma-sprite-round {
+    border-radius: 50%;
+}
+ 
+.uma-sprite.uma-sprite-bordered {
+    border: thick solid #ff5dab;
+}
+ 
+ 
+/* [[Category:赛马娘 Pretty Derby模板CSS]] */
